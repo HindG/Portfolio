@@ -7,7 +7,7 @@ export function Projects() {
   const projects = [
     {
       title: "WattValue",
-      description: "Plateforme de gestion des consommations d'électricité pour des clients professionnels.",
+      description: "Plateforme de gestion des contrats de fourniture d'électricité et de gaz pour des clients professionnels.",
       image: "/Portfolio/wattvalue-1.png",
       technologies: ["React.js"],
       liveUrl: "https://www.wattunity.com/",
